@@ -19,7 +19,7 @@
 </div>
 
 ### Formação Acadêmica
-Formado Técnico em Desenvolvimento de Sistemas. 
+Formado Técnico em Desenvolvimento de Sistemas.  <br>
 Cursando ensino Superior Ciências da Computação.📚👨🏽‍🎓
 
 ### Contatos
