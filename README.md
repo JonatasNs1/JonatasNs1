@@ -18,6 +18,10 @@
     <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" style="margin-right: 5px;margin-top: 8px;"/>
 </div>
 
+### Formação Acadêmica
+Formado Técnico em Desenvolvimento de Sistemas. 
+Cursando ensino Superior Ciências da Computação.📚👨🏽‍🎓
+
 ### Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-santoss-0b7113213)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail/jonatassantos152409@gmail.com)
 
