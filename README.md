@@ -15,7 +15,7 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-right: 5px;"/>
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="margin-right: 5px;"/>
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin-right: 5px;"/>
-    <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" style="margin-right: 5px;margin-top: 8px;"/>
+    <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" style="margin-top: 18px;"/>
 </div>
 
 ### Formação Acadêmica
