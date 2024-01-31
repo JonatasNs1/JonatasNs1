@@ -1,23 +1,7 @@
 ### Olá! Eu sou o Jonatas 🤙
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-
-  <!-- Gráfico de Linguagens mais Usadas -->
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Skills mais usadas</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasNs1&layout=compact&theme=dracula" alt="Top Langs">
-    </a>
-  </div>
-
-  <!-- Estatísticas do GitHub -->
-  <div>
-    <h3>Estatísticas do GitHub de Jonatas 📊</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula" alt="Jonatas GitHub stats">
-  </div>
-
-</div>
-
+### Skills mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasNs1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 <div style="display: inline_block; margin-top: 8px;">
@@ -32,6 +16,8 @@
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin-right: 5px;"/>
     <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"  style="margin-right: 5px;"/>
 </div>
+
+![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula)
 
 ### Formação Acadêmica
 Formado Técnico em Desenvolvimento de Sistemas.  <br>
