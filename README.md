@@ -5,8 +5,6 @@
 
 ![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula)
 
-![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula)
-
 
 ### Skills
 <div style="display: inline_block; margin-top: 8px;">
