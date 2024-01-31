@@ -1,9 +1,22 @@
 ### Olá! Eu sou o Jonatas 🤙
 
-### Skills mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasNs1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula)
+  <!-- Gráfico de Linguagens mais Usadas -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Skills mais usadas</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasNs1&layout=compact&theme=dracula" alt="Top Langs">
+    </a>
+  </div>
+
+  <!-- Estatísticas do GitHub -->
+  <div>
+    <h3>Estatísticas do GitHub de Jonatas 📊</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=jonatasNs1&show_icons=true&theme=dracula" alt="Jonatas GitHub stats">
+  </div>
+
+</div>
 
 
 ### Skills
